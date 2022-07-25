@@ -1,8 +1,8 @@
 {
-  "short_name": "元岛",
-  "name": "元岛",
+  "short_name": "起始页",
+  "name": "起始页",
   "lang": "zh-CN",
-  "description": "元岛有永久免费的新时代课程和团结互助的社群。你可以将元岛视为在线大学，游戏，无边界公司和社区等。",
+  "description": "起始页",
   "start_url": "/",
   "id": "/",
   "background_color": "#ffffff",
